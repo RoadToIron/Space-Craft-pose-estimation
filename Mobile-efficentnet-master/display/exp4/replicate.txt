@@ -1,0 +1,3 @@
+24 bins
+clahe with 20 
+normalization enabled

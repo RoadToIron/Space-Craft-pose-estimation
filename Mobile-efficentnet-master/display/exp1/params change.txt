@@ -1,0 +1,2 @@
+no normalize 
+8 grid 40 first
